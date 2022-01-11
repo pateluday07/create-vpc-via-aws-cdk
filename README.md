@@ -1,4 +1,4 @@
-# Project to create VPC via CDK!
+# Project to create VPC via CDK! [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/pateluday07/create-vpc-via-aws-cdk/blob/master/LICENSE)
 
 This project creates Virtual private cloud (VPC) with subnets 
 across 3 Availability zones (AZs). 
